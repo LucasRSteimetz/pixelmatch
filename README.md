@@ -1,6 +1,6 @@
 # pixelmatch
 NodeJs project using pixelmatch package done in FX with Arif
-#How to run
+# How to run
 `npm i`
 
 Save the original image as 'image1.png'
